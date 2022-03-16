@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main -entry point to the code block
+ * print_alphabet -prints the alphabets in small caps followed by a new line
  */
 void print_alphabet(void)
 {
