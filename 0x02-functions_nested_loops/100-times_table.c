@@ -5,11 +5,11 @@
  */
 void print_times_table(int n)
 {
-	int(num1, num2, prod);
+	int num1, num2, prod;
 
 	if (n >= 0 && n <= 15)
 	{
-		for (num1 = 0; num2 <= n; num++)
+		for (num1 = 0; num1 <= n; num++)
 		{
 			_putchar('0');
 
