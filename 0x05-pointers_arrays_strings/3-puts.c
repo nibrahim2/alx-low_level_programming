@@ -5,10 +5,9 @@
  * @str:
  * string
  */
-void_puts(char *str)
+void _puts(char *str)
 {
 	while (*str)
 		_putchar(*str++);
-
 	_putchar('\n');
 }
